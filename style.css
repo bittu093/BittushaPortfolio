@@ -1354,6 +1354,7 @@ button h6{
     }
 
     .about{
+        gap: 20px;
         width: 100%;
         justify-content: center;
         flex-direction: column-reverse;
