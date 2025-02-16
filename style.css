@@ -1210,6 +1210,9 @@ button h6{
     transition: all 0.5s;
     
     }
+
+    section.about{
+        gap: 35px
     
     #nav-menu>li>a{
         color: #C80036;
@@ -1354,7 +1357,7 @@ button h6{
     }
 
     .about{
-        gap: 35px;
+/*         gap: 35px; */
         width: 100%;
         justify-content: center;
         flex-direction: column-reverse;
@@ -1700,7 +1703,7 @@ button h6{
         font-size: 18px;
     }
     .srvices1-title>h1 {
-        /* text-align: center; */
+        text-align: center;
         font-size: 21.31px;
     }
     
