@@ -278,7 +278,7 @@ i.fa-linkedin{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 90px;
+    gap: 60px;
     position: relative;
     background-color: #fff;
 }
@@ -1210,9 +1210,6 @@ button h6{
     transition: all 0.5s;
     
     }
-
-    section.about{
-        gap: 35px
     
     #nav-menu>li>a{
         color: #C80036;
