@@ -1270,7 +1270,7 @@ button h6{
         padding: 0px 0px;
         margin: 0px;
         width: 100vw;
-        height: 800px;
+        height: auto;
         margin-bottom: 0px;
         justify-content: start;
         /* background-color: #c3f796; */
